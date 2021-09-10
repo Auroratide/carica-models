@@ -1,0 +1,14 @@
+{
+  "name": "@auroratide/carica-models",
+  "version": "0.1.0",
+  "description": "Some models for use with Carica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Timothy Foster",
+    "url": "https://auroratide.com"
+  },
+  "license": "CC-BY-4.0"
+}
