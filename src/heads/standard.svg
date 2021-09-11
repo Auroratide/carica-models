@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:carica="https://auroratide.com/carica"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   xmlns:carica="https://auroratide.com/carica"
+   sodipodi:docname="standard.svg"
+   id="head:standard"
+   version="1.1"
+   viewBox="0 0 1200 1200">
+  <metadata
+     id="metadata5641">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5639" />
+  <sodipodi:namedview
+     inkscape:current-layer="layer9"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="520.2289"
+     inkscape:cx="490.90228"
+     inkscape:zoom="0.5008673"
+     showgrid="false"
+     id="namedview5637"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     carica:layer="head"
+     inkscape:label="Head"
+     id="layer8"
+     inkscape:groupmode="layer">
+    <path
+       carica:material="skin"
+       id="path5596"
+       d="m 644.9375,945.70703 c 182.59375,6.24219 318.23828,-87.02344 325.24219,-133.53516 3.55078,-23.59375 -10.91407,-43.23828 -10.3125,-80.64453 1.07422,-66.72656 57.85551,-218.42968 -4.82032,-329.60156 C 892.37109,290.75 808.14844,227.26562 628.10547,221.11328 448.05859,214.95703 310.77344,269.46484 252.16016,425.74219 c -58.61329,156.27343 9.7539,291.59765 42.57421,364.53906 32.81641,72.94141 167.60938,149.18359 350.20313,155.42578 z m 0,0"
+       style="fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  </g>
+  <g
+     carica:layer="ear"
+     inkscape:label="Ear"
+     id="layer9"
+     inkscape:groupmode="layer">
+    <path
+       carica:material="skin"
+       style="fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 382.00781,875.23828 c 0,0 -72.94921,-39.97656 -109.48046,-87.74219 C 235.9961,739.72657 236.3711,666.46485 291.00001,648 345.62892,629.53516 421.14062,732.91016 421.14062,732.91016 400.375,771.34766 379.85937,798.5 382.00781,875.23828 Z m 0,0"
+       id="path6360" />
+    <path
+       carica:shade="dark"
+       carica:material="skin"
+       style="fill:#aa00aa;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 366.69922,847.39844 c -46.07812,-33.5 -91.63671,-62.38672 -97.30859,-108.97657 -2.73828,-22.47655 -0.82812,-55.30467 31.88282,-60.69139 32.71093,-5.38282 85.87889,64.02343 85.87889,64.02343 -14.59375,27.44921 -23.80468,38.12109 -20.45312,105.64453 z m 0,0"
+       id="path6362" />
+  </g>
+</svg>
