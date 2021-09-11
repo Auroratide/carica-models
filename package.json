@@ -8,7 +8,8 @@
   "scripts": {
     "clean": "rm -rf models",
     "build": "svgo -r -f ./src -o ./models",
-    "test": "mocha"
+    "test": "mocha",
+    "prepublishOnly": "npm run build && npm run test"
   },
   "author": {
     "name": "Timothy Foster",
