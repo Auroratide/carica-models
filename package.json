@@ -2,6 +2,7 @@
   "name": "@auroratide/carica-models",
   "version": "0.1.0",
   "description": "Some models for use with Carica",
+  "keywords": ["carica", "models", "svg", "characters"],
   "type": "module",
   "main": "index.js",
   "scripts": {
